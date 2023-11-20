@@ -12,6 +12,5 @@ def generate_launch_description():
                 executable='avoidance',
                 name='avoidance',
                 output='screen',
-                emulate_tty=True,
             ),
         ])
